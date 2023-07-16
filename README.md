@@ -1,6 +1,9 @@
 # two-talking-circuits
 Two Esp32 communicate via ChatGPT-generated responses.
 
+## Purpose
+The purpose of this project is to leverage artificial intelligence in the context of the Internet of Things, making things easier by providing a ready-made template for specific needs.
+
 ## Required components
 
 * 2x - [Esp32 board](http://esp32.net/)
