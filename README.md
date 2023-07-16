@@ -44,6 +44,8 @@ Payload is limited to 250 bytes.
 
 [How to get your own ChatGPT Api key](https://tfthacker.medium.com/how-to-get-your-own-api-key-for-using-openai-chatgpt-in-obsidian-41b7dd71f8d3)
 
+> :warning: **[Keep an eye on the costs of using the chatGPT api.](https://platform.openai.com/account/usage)**
+
 ### Usage
 
 (both sender and receiver)
