@@ -1,5 +1,5 @@
 # two-talking-circuits
-Two Esp32 communicate via ChatGPT-generated responses. (With optional oled display responses)
+Two Esp32 communicate via ChatGPT-generated responses. (With optional oled display monitor)
 
 ## Purpose
 The purpose of this project is to leverage artificial intelligence in the context of the Internet of Things, making things easier by providing a ready-made template for specific needs.
@@ -13,6 +13,8 @@ Optional:
 * 2x - Oled i2c ssd1306
 * 2x - Breadboard
 * Jump wires
+
+[Esp32 with oled display](https://randomnerdtutorials.com/esp32-ssd1306-oled-display-arduino-ide/)
 
 ## Description
 The code consists of two receiver and sender sources that are mirrored. It will be necessary to set wifi, api key of chatGPT, MAC Address for both of them. 
